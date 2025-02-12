@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/5007d860-379b-4a10-8371-fe2950349fce)
 
 ---
-We are thrilled to present an **interactive Power BI dashboard** that provides a **comprehensive view** of Fevicol's sales and performance metrics! 🔍  
+I am thrilled to present an **interactive Power BI dashboard** that provides a **comprehensive view** of Fevicol's sales and performance metrics! 🔍  
 
 ### 🔥 **Key Insights:**  
 ✅ **Total Sales:** $46.62M 📈  
